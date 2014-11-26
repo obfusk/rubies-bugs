@@ -10,6 +10,6 @@ rvm:
 - 2.1.5
 - ruby-head
 - rbx-2
-- rbx-head
+# - rbx-head
 - jruby
 script: bundle exec rake
